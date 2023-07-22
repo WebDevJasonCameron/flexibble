@@ -1,7 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
 import {NavLinks} from "@/constants";
-import React from "react";
 import AuthProviders from "@/components/AuthProviders";
 
 const Navbar = () => {
