@@ -26,5 +26,5 @@
 
 5. To Get Google Auth Set Up, go to 1:00:00 in YT tut.  Also, read NextAuth Docs for help
 
-6. 1:03:48
+6. 1:03:48 fixed. And broke.  Requiring some work with the authentication.  Not sure at this moment.
 
