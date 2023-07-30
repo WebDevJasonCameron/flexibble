@@ -28,3 +28,5 @@
 
 6. 1:03:48 fixed. And broke.  Requiring some work with the authentication.  Not sure at this moment.
 
+7. Spinning up a graph-base server environment within the terminal: ```npx grafbase@0.24 dev``` ... this gives you an endpoint
+
